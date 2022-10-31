@@ -1,7 +1,7 @@
 {
   "name": "789KM_SLOTWALLET",
   "theme": "สล็อต สล็อตเว็บตรง สล็อต PG SA บาคาร่า",
-  "version": "0.10.9",
+  "version": "0.11.0",
   "description": "สล็อต สล็อตเว็บตรง สล็อต PG SA บาคาร่า อันดับ 1 ของไทย แจกหนัก แตกหนัก เล่นได้ 24 ชั่วโมง",
   "keywords": [
     "SA",
@@ -10,7 +10,6 @@
     "เว็บตรง",
     "ไม่ผ่านเอเยนต์",
     "เล่นได้ 24 ชั่วโมง"
-
   ],
   "repository": "https://github.com/mrslomo/789KM_SLOTWALLET.git",
   "license": "MIT",
